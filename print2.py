@@ -1,0 +1,1 @@
+print(" Pengen ke isekai tapi gak punya uang ")
